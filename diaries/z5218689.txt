@@ -1,0 +1,57 @@
+-- Week 1 -- 
+Decided on what our project should be, and decided between tutor management and task management. Task management would be
+something that is similar to AirTasker or Fiverr, and would allow users to be able to ask for services to be provided, and also
+providing a platform for task service providers to be able to offer their services. 
+
+-- Week 2 --
+Decided to work on providing a pet service provider. We will be offering up services on pet grooming, 
+pet sitting and other pet related services, and began drawing up the Jira tickets, and filling them 
+out with acceptance criteria, user stories and a description. 
+
+-- Week 3 --
+Set up the server architecture, and modelled it visually. I also finished writing up the user stories, the
+descriptions and acceptance criteria for the Post List and Post Q&A Jira tickets. For the proposal, our 
+team has finished most of it, and I finished writing the drawbacks of the Mad Paws system, as well as 
+adjusted the background to reflect the changes in the overall task management system. 
+
+-- Week 4 -- 
+Started working on the coding aspect, and started learning about Next JS, how it could be used for the routes.
+Then I worked on using react JS, and using UseStates and UseEffect to be able to dynamically update the web page. 
+Worked on the Find Posts section and getting it to actually dynamically change. Also learnt about Tailwind CSS and using it
+to make the website more aesthetic with animations that make it seem professional. 
+
+-- Week 5-- 
+I got it to actually dynamically change based on the search. I also worked on getting a pop up filter to work 
+and it is a versatile tool that can be used by users to refine their search results based on the date. I had a few
+problems working on getting the pagination for the website to work, and getting it to always default to the first 
+page to dispaly. I also worked on being able to refactor parts of the code, making variable names more readable as well. 
+
+-- Week 6-- 
+Started working on the next sprint and was tasked with rating a carer. However, to be able to rate carer, this needed
+payment, task completion and notifications for both of these actions to be complete. Therefore, I worked mainly on 
+task completion to ensure this critical component was finished before I could move onto finishing the enable feature. 
+Had to incorporate how notifications work- initially I thought I had to insert directly into the notifications table. 
+
+-- Week 7-- 
+Had to fix a lot of bugs, and had to fix the notifications message multiple times. There was also some issues with 
+excessive fetch requests from Supabase, which I fixed with the comments from Matt. We also showed the product to the
+tutor, who suggested some improvements to it.
+
+-- Week 8 --
+Worked on the actual ratings of the user. Had to redo this a few times, especially the notifications for the ratings 
+as Matt suggested a lot of improvements. To be able to do this, I had to setup a new "ratings" table and also had to 
+set up a new SQL view which allowed me to find the average rating for all of the users. After working through it and 
+incorporating feedback, I was able to get it functional. 
+
+-- Week 9 -- 
+Focused on being able to upload the image. This required for me to learn how Supabase buckets work, and how to 
+manipulate their policies such that the permissions allow for a certain type of user to make changes. On top of
+this, I had to learn how to upload an image to that bucket, which I ran into a lot of issues as I kept uploading 
+the wrong URL to the bucket. It was with the help of Alex, that I was able to do so and fix the error.
+
+-- Week 10 -- 
+Worked on being able to edit the image, which was also not an easy task, as I needed to combine both the image in 
+the ViewPost, uploading that image, and also updating that image. I spent a long time trying to change the image, 
+as first it ended up being a null image, and after making some changes -> the website ended up displaying the old
+image. It was only until I started actually adding in an extra random digits after the path to signify a new unique
+path, that I was able to get it to update the image.

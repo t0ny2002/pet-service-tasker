@@ -1,0 +1,148 @@
+# Matt's Diary
+
+## Week 1
+
+14/09/23
+In the first week we chose our team, as well as the project we wanted to do. This being P18, the task management platform.
+We discussed the architecture that we were intending to use as well as some of our backgrounds with web development.
+This mainly covered any background we may have had in using Next.js, React, and Supabase.
+We also set up our Jira team.
+
+17/09/23
+I spent a little bit of time getting more familiar with Next.js in my personal time to prepare for using it in the project.
+
+## Week 2
+
+21/09/23
+In the lab, we discussed what we had to do for the project proposal, as this would be due in little over a week.
+As a team, we wrote some basic user stories for a general task platform, and then delegated what areas of the proposal we would do.
+I was assigned to work on the storyboards with Luke, as we decided to use Figma to create the pages of the website, using mobile first design.
+We would then use these pages to create the user flows that capture the user stories.
+We also set up Github.
+
+After the lab, we set up a time for a meeting with our client, Basem, who helped answer some questions and give ideas about how we should approach our chosen project.
+Basem had suggested that he would like to see each team aim for a specialisation in the type of task manager we would produce.
+This gave us some ideas about what we would like to specialise in. We had thought of a software development task manager that connects freelancers to client,
+but this seemed to similar to other projects, and didn't really fit the requirement of needing bidders.
+
+I did some brainstorming and suggested things like babysitting, house sitting or pet sitting, and Alex suggested that doing pet care tasks would be good.
+We all agreed on this specialisation.
+
+22/09/23
+Luke, Alex and I got together on Discord to keep working on the proposal, and we improved the user stories for our specialisation.
+Luke and I also further added more pages to our Figma design.
+
+24/09/23
+We had a team meeting to go over progress on the proposal.
+Alex added the user stories to the Jira board, and assigned them all epics.
+We were then assigned to add acceptance criteria to all of the user stories.
+
+## Week 3
+
+26/09/23
+Luke and I worked some more on the Figma design, starting to create the user flows to capture important user stories.
+
+27/09/23
+Added the Figma story boards to the proposal doc, and added some more explaination to the user stories in the doc.
+
+28/09/23
+In the lab, we discussed the final parts of the proposal to finish off.
+We also had our first sprint planning session where we pointed all of the user stories in Jira, and assigned the first few tickets.
+We then set up Supabase and defined the first tables so that we could connect our app to the database.
+
+29/09/23
+We finished off the final part of the report in the morning, and submitted it.
+Alex and I then added the initialisation code to our app so that we could access Supabase.
+
+30/09/23
+I implemented the registration flow and pages for TASK-6.
+
+## Week 4
+
+2/10/23
+Had a team meeting to make sure everyone was able to setup and start working on development.
+
+5/10/23
+In the lab we had some discussion about progress and encouraged everyone to approve more requests, as it was mostly myself getting around to approving.
+
+In general I was busy with other work, and was also waiting for other tickets to be completed that were blockers for me.
+Everyone else was good at gettign work done, but it was quiet for me generally this week.
+
+## Week 5
+
+9/10/23
+Worked on choosing bidder, and improved some work on the view post page to clean up some of the logic.
+
+11/10/23
+This was the day before our Demo A. I worked on improving the filtering for posts page. I also fixed some issues with the navbar.
+The team met to discuss what we were doing for the demo and made some cool branding improvements for the page.
+
+12/10/23
+We had our Demo A, which went well. We showed off our progress and got some feedback.
+We then as a team held the retro meeting, where we talked about the issues, and improvements we could make by reflecting on our past sprint.
+This went well and we decided that things were generally really good, just needed some improvment to things like approvals and branches.
+
+14/10/23
+Since it was hard to get everyone to meet during flex week to plan the next sprint, Alex and I decided to do it for the team.
+I had done some more work on general planning that the team discussed after our retro, and fleshed out a lot of the acceptance criterea of the tickets.
+Alex and I just had to choose which tickets to include in our sprint, and we then assigned some of the first tickets.
+
+## Week 6
+
+15/10/23
+I was interested in starting early for this sprint and knocked out admin invites, as well as fixing an issue with the navbar.
+
+For the rest of the week I didn't do too much since I was incredibly busy with other course work and work.
+
+## Week 7
+
+24/10/23
+I worked on the admin registration, which wasn't too hard since registration was very similar.
+I also worked on the admin users table, which allowed admins to see and manage all the users on the platform.
+
+26/10/23
+In the lab we had a progress update with our tutor. There wasn't too much yet, since a lot of work wasn't completed due to time shortages in week 6.
+We also got some more stuff approved.
+
+## Week 8
+
+1/11/23
+We had a quick meeting to organise and run through any last minute fixes that we needed. This went mostly well and only a few bugs that weren't working.
+I made a quick PR with the fixes. I also made some notes for things to fix next sprint.
+
+2/11/23
+With the notes, I realised that some of the issues were actually bugs that we had already created that weren't resolved in the sprint yet.
+So I just quickly finished some of the small tickets off. This was 3 really small PRs that were quickly merged.
+
+In the Demo B we quickly showed off our new changes and that went smoothly for the most part. Not too much feedback other than some minor visual changes.
+
+For the retro we quickly held a meeting and discussed last sprints to try notes and reflected on how we went. We then did the rest of the retro and wrote up some basic notes.
+Owen was able to help finish that off for the most part which was awesome since I was bogged with lots of other course work.
+
+## Week 9
+
+This week we only really started the sprint on Sunday/Monday due to limited availability to hold the grooming session.
+We got the sprint together, which was mostly just a lot of improvements to our current functionality.
+
+I assigned some tickets to myself, mainly doing work that was for visual improvements to the styling of the page.
+I worked on some of these early and then finished the week with one of the bigger tickets to improve post fetching.
+
+In our lab, we had a catchup and just showed off some simple new stuff to our tutor.
+
+## Week 10
+
+In the last week, I spent my time doing as much as I could on finishing up my assigned tickets.
+This involved cleaning up a lot of the styling within the website.
+
+Due to other courses having work due in this week I wasn't able to get a good headstart on the report, and had to focus on development for the demonstration.
+
+Leading up to the final demo, we held some quick meetings to ensure everything was working and just practices going through the flow
+and assigned who would show what parts, ensuring everyone presented something.
+
+For our demo, our client Basem was present to observe our final product and ask any clarifying questions.
+The demo itself went very smoothly and Basem was impressed with our final product.
+
+In order to get the report done, I just had to do some work on the introduction and overview, as well as some implementation challenges I faced
+and the installation manual.
+
+Submitting our final work was very satisfying and I am proud of our teams contributions to finish the task without much stress.

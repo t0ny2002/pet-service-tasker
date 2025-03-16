@@ -1,0 +1,50 @@
+-- Week 1 --
+First team meeting and introduction. I offered to be the scrum master and everyone was fine with that.
+We all agreed that P18 was our ideal project. Afterwards we agreed to the stack being comprised of nextjs,
+Supabase and tailwindCSS. We also setup out Discord and Jira. We then agreed to split the work evenly.
+I was to work on User Stories and Systems Architecture.
+
+-- Week 2 -- 
+I recorded a quick tutorial on basic Next.js and React. Fortunately, I have plenty
+of experience with Next.js and this stack as a whole. In the lab we setup the github
+and I setup the base Next.js repo. We then met with our client, Dr Basem Suleiman, where
+we asked questions about our project. He recommended we specialise in a field. Which led
+me to think we should do something developer related that sold github repos.
+
+
+-- Week 3 -- 
+After some team discussion we agreed to specialise our project in pet tasks like caring.
+We caught up on Sunday and began to finalise our proposal which was due the coming Friday.
+The user stories were a lot of the task and we ended up splitting the work evenly across the team.
+I finished the Systems Architecture and began my assigned user stories as well as splitting the tickets
+evenly across the three sprints. We finalised the proposal on Friday and I submitted with a day to spare.
+
+-- Week 4 --
+I started the week working on user authorisation and finished the login task. I added a bunch of helpers
+for supabase to ensure it wasn't too difficult for others to use.
+
+-- Week 5 -- 
+We had our first demo and retro and they both went really well. I led the demo and had deployed our project
+to vercel by copying the repo. Our progress was good this week and we were able to get a lot done.
+
+-- Week 6 -- 
+This week I worked on the notifications database as well as making a new api route for notifications. This
+allowed me to write one helper and make notifications super simple. I also worked on 
+making profiles accessible to other users through a dynamic page route.
+
+-- Week 7 --
+This week I worked on refactoring the post page to be a server page as well as adding likes and deleting to questions.
+Refactoring the most complex part of our page from client to server enabled faster run times for user. Furthermore, it
+decreased the complexity of our code and while I was able to do that it also allowed me to modularise all the components within the page.
+
+-- Week 8 --
+This week we had our second demo. We were provided feedback for what we had worked on in the past sprint. It went quite smoothly.
+However, there were a few last minute changes I had to make prior to the demo for things that were not working as they hadn't been properly tested.
+This is bound to happen but I think I need to make more effort in my peer reviews to ensure things are working as opposed to just checking if the code makes sense.
+
+-- Week 9 --
+This week I wrote and finalised the tickets for our last sprint. We are spending most of the sprint focussing on fixing and improving the quality of our product. 
+I added file uploads for payment receipts on request of our client. I also have started writing our report and I've started with the overview of the architecture.
+
+-- Week 10 --
+Helped Tony with images and Luke with messages while finishing my own tickets. Final demo went well and happy with the feedback we received.

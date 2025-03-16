@@ -1,0 +1,109 @@
+-- Week 1 --
+First team meeting and introduction. Agreed on a scrum master, Alex. Agreed on
+a project of choice, P18. Setup all communications on Discord and discussed meeting
+times. Finished setting up all project management platforms, Jira etc.
+We have also agreed to build the project using Next.js, which is based on Node js.
+
+-- Week 2 -- 
+Alex had delivered a great recorded tutorial on basic Next.js and I did further 
+reading and experimenting on a basic Next.js project. During our lab session, 
+we configured Github and initialised a base Next.js project. Furthermore, we
+met with the client, Dr Basem Suleiman, where we discussed specifics of the
+project. He noted that we should come up with a specialisation for the task
+management platform. Some initial ideas were software development specific
+task management plaftorm where we can integrate with github to manage tasks.
+Another idea was pet caretaking tasks management.
+
+
+-- Week 3 -- 
+We ended up agreeing to take on the project specialisation of pet caretaking
+task management platform. Team catchup on Sunday morning, discussed our proposal
+that's due Friday. Allocated tasks for the proposal relating to User Stories. 
+Specifically, I researched existing solutions to our project, including Madpaws,
+PetCloud and Pawshake, and summarised drawbacks of each platform. One of our aims
+is to fix these drawbacks if possible in our development of a pet caretaking platform.
+Our Thursday meeting was organised and structured. We allocated our first development
+tasks and agreed on point allocations for each User Story. I wrote about the novel
+functionalities of our platform for the proposal, mostly relating to the bidding system
+in place for tasks.
+
+
+-- Week 4 --
+After handing in the proposal, everyone was assigned their first tasks on Jira. I
+was still learning much about Next.JS and React in general, so it took some time to
+first get going. We had a meeting during the week and went over some basic implementation
+using Next.JS, Tailwind CSS and some simple React functionalities. I was assigned
+the "View Post" page and started implementing on Monday. I started with the front end work
+and managed to build page using Tailwind CSS, which wasnt too difficult. The backend work, 
+where the page communicates with supabase was tricky, however Matt was helpful in another
+standup to show me a few pointers. I managed to complete the View Post task along with the
+Add Bid functionality on Wednesday night. The rest of the group had done work over the
+weekend and were mostly busy with other courses throughout the week, however we seem to be
+in a relatively strong position and look to finish all of Sprint 1 before the first in class
+demonstration.
+
+
+
+
+-- Week 5 --
+The implementation of all tasks in Sprint 1 were very well done and on time overall from
+the team. Our first demo was completed on Thursday and it went very well. It was clear
+from the start that our team had managed to implement a working MVP and were much ahead of
+schedule in terms of the general project timeline. Having said that, there were definitely
+a few points of improvement for our implementation. These included some redunant features
+in the sign up page and lack of input validation for the Make a Bid feature. Given this,
+we had planned out a retrospective through an online retrospective collaborating tool, which
+was very useful in constructing our restrospective and gathering opinions equally from all
+group members. Overall, our first demo went very well and the team will plan on allocating 
+tasks for the next sprint early in Week 6.
+
+
+
+-- Week 6 --
+Week 6 is flexi week at UNSW. Alex and Matt had a meeting early in the week and allocated 
+tasks for everyone for Sprint 2. The idea was to mix things up so team members could work
+on a variety of things, rather than sticking to their feature in Sprint 1. I was given 2 
+tasks; Ask Question and Answer Question. For most of the flexi week, I was unavailable to
+work on this, however the team was making much progress with their sections by the end of
+the week. I had started working on my tasks on Thursday and finished implementation on 
+Saturday evening. Before beginning, I had refactored some code for View Post and Bid Form,
+in alignment with our feedback from the Week 5 demo and our retrospective. Then, I had
+implemented the Question and Answer feature for posts. Overall, I enjoyed working on these
+tasks and this feeling was also shared amongst other team members. Looking forward to week 7
+our team aims to clean up and finalise our product for the next demo, whilst also looking to
+add some small features before the demo, if there is time.
+
+
+
+-- Week 7 --
+The start of week 7 went relatively smooth, with many tasks being completed. It was raised in
+a team meeting that we were behind schedule and there were many tasks needed to be completed.
+This was resolved by allocating more tasks around the team. We agreed to complete all the tasks
+by early week 8 so we can prepare for the Demo 2. I implemented my tasks late in Week 7 and
+also fixed a few bugs on the platform. Although there were slight hiccups in the implementation
+process this week, things seem to have been cleared up and will be hopefully ready for another
+strong Demo in Week 8
+
+
+-- Week 8 --
+In Week 8, the team finalised all the features for Sprint 2 and made the finishing touches. All
+the features had undergone a full run-through before the Demo and the team were all satisfied
+with its performance. The demo went smoothly, with much to show for Sprint 2 and a few notes
+from the class tutor on suggestions for improvement and ideas moving forward. The Retrospective
+meeting was held and the Retrospective B report was finalised and submitted at the end of the week.
+New tasks were created in Jira for Sprint 3 and self-assignment has begun at the end of Week 8.
+
+
+-- Week 9 --
+In Week 9, the team made further progress in Sprint 3 and had agreed on finishing everything ASAP.
+Everything seemed to run smoothly and I was on track to finishing my tasks before Monday Wk 10.
+Alex had assigned parts of the final project report to everyone and we have already started preparing
+for that. We also aim to run through a mock final demo sometime in Wk 10. This will require tasks to be
+completed.
+
+
+-- Week 10 --
+Week 10 was spent finalising our project and pushing through the last few tasks. I had finished my tasks
+on the weekend before so I spent most of my time reviewing pull requests, planning the project report and
+reviewing the flow of our platform in preparations for the demo. The Final Demo on Thursday went very 
+smootly and the feedback from Dr Suleiman was excellent. The project was an overall success.

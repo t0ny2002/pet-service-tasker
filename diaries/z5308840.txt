@@ -1,0 +1,91 @@
+-- Week 1 --
+
+    15/09/23
+    During Week 1, we discussed which project we wanted to do. 
+    We decided on project 18, given our areas of expertise, and I told the tutor our preference.
+
+-- Week 2 --
+
+    21/09/23
+    During Week 2, we wrote user stories as a team.
+    Delegated work to be completed. Mine is storyboard / flow. 
+    Decided on the next meeting: 10am Sunday.
+
+    Talked with our project client over teams to clarify how we were meant to distinguish the
+    roles/permissions. We also decided to specialise on the initial specification - we chose a
+    pet tasker platform.
+
+    22/09/23
+    I hopped on a discord call with Matt and Alex, and we discussed some of the user stories. 
+    Matt and I worked on some pages in our Figma design, such as the landing page, 
+    form page, and available jobs page.
+
+    23/09/23
+    I made some minor edits to our proposal document.
+    I also added a new page to the Figma design - the job overview page. This allows
+    customers (pet carers) to view the details of a job, send a message to the pet owner, and a bid amount.
+
+    24/09/23
+    Today we had a group meeting, and we discussed the progress everyone had made.
+    We discussed the marking criteria and organised work for each person to do by Wednesday night.
+
+    26/09/23
+    Today I was working on the Figma design, I changed up the profile page and hopped on a call with
+    Matt to discuss some of the design choices. We began organising the pages into sections so we 
+    could capture screenshots of the authentication flow.
+
+-- Week 3 --
+25th September -> 1st October
+
+During Week 3, we began learning the stack. Alex was awesome and made some videos to show how to use the stack. 
+Since I was there when he was making the videos, I was able to ask some questions about how to use the stack. We also
+had a meeting with our client Dr Basem Suleiman and decided to specialise in a pet care application. I finished off
+the system flow in the Figma design, and added this to the project proposal. I also wrote the background for the proposal,
+which was later adapted to our specialisation.
+
+-- Week 4 --
+2nd October -> 8th October
+
+In Week 4, I was working on what I had been assigned: Profiles and Profile Edits. As I am relatively unfamiliar
+with the language and the stack, this involved a pretty steep learning curve. Some further work is needed to 
+modularise the code (especially with the category icons).
+
+-- Week 5 -- 
+9th October -> 15th October
+
+During Week 5, I continued working on Profiles and Profile edits. We also had a first demo. The night prior to the demo,
+we hopped on a Discord call to merge in some of the unmerged branches. We also did a run-through of the entire application.
+Alex and I met before the tutorial to do a practice demo. We found some bugs during this time, relating to posts and profiles.
+
+-- Week 6 -- 
+16th October -> 22nd October
+
+During Week 6, my laptop screen broke, so I was unable to complete much during this week. Fortunately, this sprint
+is three weeks, and not two, and Week 6 is flexibility week.
+ 
+-- Week 7 --
+23rd October -> 29th October
+
+During Week 7, I put lots of time into the project to compensate for my broken laptop screen in Week 6. The work during Week 7
+primarily involved working on Carer and Owner dashboards. This involved lots of changes to the previous way posts were being retrieved.
+I had lots of fun making the UI look clean, and I made some creative choices within the limitations of the acceptance criteria.
+
+-- Week 8 -- 
+30th October -> 5th November
+
+During this week, I finished off my section of Owner and Carer dashboards. The design was still relatively consistent with our initial Figma design. I also
+made the landing page significantly more presentable in accordance with tutor comments, which Alex further edited
+and helped make responsive. During the Week 8 tutorial we had our second demo and progressive. The previous night,
+Owen, Matt, and I did a run-through of the application for a few hours. We purged bad data from the database and fixed
+issues resulting from merge conflicts, especially those relating to dashboards. Matt took note of the issues that we saw.
+
+-- Week 9 --
+6th November -> 12th November
+
+During Week 9, I began working on the messages functionality for the application. This involved
+discussing UX design with the team on Discord, creating new tables in the database (chats and messages), 
+creating a new tab on the nav bar, and began working on the chat list / chat cards, which is displayed on the 
+/messages route. A few more tickets relating to messages are yet to be completed.
+
+-- Week 10 -- 
+TBC
